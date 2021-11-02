@@ -1,2 +1,5 @@
 # Modelado-y-Programación
-Prácticas y proyectos de la materia Modelado y Programación.
+### Prácticas:
+- Implementación de *Patrones de Diseño* para la resolución de un problema
+1. Patrones *Strategy* y *Observer*
+2. Patrones *State*, *Template* e *Iterator*
