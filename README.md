@@ -1,5 +1,9 @@
 # Modelado-y-Programación
 ### Prácticas:
-- Implementación de *Patrones de Diseño* para la resolución de un problema
-1. Patrones *Strategy* y *Observer*
-2. Patrones *State*, *Template* e *Iterator*
+- *Patrones de Diseño* para la resolución de un problema
+1. Implementación de los patrones *Strategy* y *Observer*
+2. Implementación de los patrones *State*, *Template* e *Iterator*
+3. Implementación de los patrone *Decorator* y *Adapter*
+4. 
+
+### Proyectos:
