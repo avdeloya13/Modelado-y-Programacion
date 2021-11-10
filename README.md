@@ -6,4 +6,3 @@
 3. Implementación de los patrone *Decorator* y *Adapter*
 4. 
 
-### Proyectos:
