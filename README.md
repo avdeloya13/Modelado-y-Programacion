@@ -6,3 +6,4 @@
 3. Implementación de los patrones *Decorator* y *Adapter*
 4. Implementación del patrón *Abstract Factory*
 
+5.- esta es una prueba de la petición para git
